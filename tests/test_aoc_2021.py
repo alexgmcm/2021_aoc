@@ -1,4 +1,4 @@
-from 2021_aoc import __version__
+from aoc_2021 import __version__
 
 
 def test_version():
