@@ -12,4 +12,7 @@ def test_calc_cost():
 
 def test_get_min_cost_x():
     horizontal_positions = load_input("aoc_2021/d07_Treachery_of_Whales/inputs/test_input.txt")
-    assert get_min_cost_x(horizontal_positions) == (2,37)
+    # part 1 code
+    # assert get_min_cost_x(horizontal_positions) == (2,37) 
+    # part 2 code
+    assert get_min_cost_x(horizontal_positions) == (5, 168.0)
